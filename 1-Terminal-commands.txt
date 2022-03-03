@@ -1,7 +1,7 @@
 Linux terminal (GitBash) commands
 
-1) Посмотреть где я - pwd
-2) Создать папку - mkdir test
+1) Посмотреть где я -- pwd
+2) Создать папку -- mkdir test
 3) Зайти в папку - cd test
 4) Создать 3 папки - mkdir work home office
 5) Зайти в любоую папку - cd home
